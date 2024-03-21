@@ -3,6 +3,7 @@ name = "gcloud-utils"
 description = "Google Cloud Utilities."
 version = "0.3.1"
 authors = ["Fumitake Kawasaki <f.kawasaki@elsoul.nl>"]
+repository = "https://github.com/EpicsDAO/gcloud-utils"
 edition = "2021"
 license = "Apache-2.0"
 
